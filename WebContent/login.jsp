@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<metacharset="utf-8">
+	<meta charset="utf-8">
 	<title>ログイン画面</title>
 </head>
 <body>
